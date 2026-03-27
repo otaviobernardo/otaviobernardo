@@ -1,6 +1,6 @@
 ## 👨‍💻 Sobre mim
 
-Sou **QA Engineer** e estudante de **Engenharia de Software**, com forte interesse em **Engenharia de Dados, Inteligência Artificial e Machine Learning**.
+Sou **QA** e estudante de **Engenharia de Software**, com forte interesse em **Engenharia de Dados, Inteligência Artificial e Machine Learning**.
 
 Atualmente desenvolvo **projetos end-to-end de dados**, explorando desde ingestão e pipelines até análise e aplicações com LLMs.
 
