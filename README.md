@@ -1,12 +1,10 @@
 ## 👨‍💻 Sobre mim
 
-Sou **QA** e estudante de **Engenharia de Software**, com forte interesse em **Engenharia de Dados, Inteligência Artificial e Machine Learning**.
-
-Atualmente desenvolvo **projetos end-to-end de dados**, explorando desde ingestão e pipelines até análise e aplicações com LLMs.
+**Engenheiro de Dadoos & IA**.
 
 Minha jornada combina:
 
-- 🧪 Experiência prática com **Qualidade de Software**
+- 🧪 Experiência prática com **Qualidade de Software e Dados**
 - 📊 Construção de **pipelines e plataformas de dados**
 - 🤖 Desenvolvimento de **aplicações com IA e Machine Learning**
 - ☁️ Uso de **Cloud e ferramentas modernas de dados**
