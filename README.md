@@ -1,6 +1,6 @@
 ## 👨‍💻 Sobre mim
 
-**Engenheiro de Dadoos & IA**.
+**Engenheiro de Dados & IA**.
 
 Minha jornada combina:
 
