@@ -25,10 +25,10 @@ Minha jornada combina:
 
 # 🚀 Áreas de Interesse
 
-- Data Engineering
-- Data Science
-- Machine Learning
-- AI Engineering
+- Engenharia de Dados
+- Ciência de Dados
+- Aprendizado de Máquina
+- Engenharia de Inteligência Artificial
 
 ---
 
